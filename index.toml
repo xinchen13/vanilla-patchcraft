@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "2acf38141dae6419ab095512a343e8ce0d729504196bfd1a9642144c288d5ae2"
+file = "LICENSE"
+hash = "a28da45eb8939df440d892454ba2a213a3e83846079484e34b3da4bc89f54799"
 
 [[files]]
 file = "bliss-shader.pw.toml"
