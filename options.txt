@@ -16,7 +16,7 @@ fullscreen:false
 gamma:0.75
 graphicsMode:1
 guiScale:0
-maxFps:150
+maxFps:260
 inactivityFpsLimit:"afk"
 mipmapLevels:4
 narrator:0
@@ -38,7 +38,7 @@ chatLinksPrompt:true
 discrete_mouse_scroll:false
 invertXMouse:false
 invertYMouse:false
-realmsNotifications:true
+realmsNotifications:false
 showSubtitles:false
 directionalAudio:false
 touchscreen:false
@@ -56,7 +56,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","file/EvenBetterEnchants_v2.1_1.21.5+.zip","programmer_art"]
+resourcePacks:["vanilla","fabric","file/EvenBetterEnchants_v2.1_1.21.5+.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:zh_cn

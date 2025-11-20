@@ -101,10 +101,6 @@ file = "config/jade/sort-order.json"
 hash = "c0235d429020dce0cd44eb11e34a728f83e8416ef5b61bd9607af370e963ad6c"
 
 [[files]]
-file = "config/journeymap-server.json"
-hash = "2b77ff82093eb3698b79b2b953806855d1880d414544a8158f41b028d8e293ca"
-
-[[files]]
 file = "config/lithium.properties"
 hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
 
@@ -158,7 +154,7 @@ hash = "2f6e8125fa9f35e0c700d49c908e0d60216d6d1cced17701351a174995570535"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.waypoint.config"
-hash = "f592ac0ef3eb2791cc710d32e87df5ba6886d4e5d29c30250439d5147d13c778"
+hash = "de224128058b9409c6518c8287a223b5ac682259ec87391cf81f09347ee9bf30"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.webmap.config"
@@ -271,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "81191bf06ee2c6809b8e025acf33557398adaac39b38333c3a7685ba7fae2f5d"
+hash = "31e42ea0f0aa93cb91736f28f759daa1a7bfbe3030b1fad88a8b48371ec21849"
 
 [[files]]
 file = "resourcepacks/even-better-enchants.pw.toml"
