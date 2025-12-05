@@ -21,7 +21,45 @@
         "first_run": false
     },
     "GuiSettings": {
-        "continuous_crafting_saved_value": false
+        "inventory_overlay_buttons_visible": {
+            "value": false
+        },
+        "enable_inventory_editor_button": {
+            "value": false
+        },
+        "enable_inventory_settings_button": {
+            "value": false
+        },
+        "enable_profiles_ui": {
+            "value": false
+        },
+        "enable_profiles_announcement": false,
+        "enable_inventory_buttons": {
+            "value": false
+        },
+        "show_fast_rename_checkbox": {
+            "value": false
+        },
+        "show_continuous_crafting_checkbox": {
+            "value": false
+        },
+        "continuous_crafting_saved_value": false,
+        "show_regular_sort_button": {
+            "value": false
+        },
+        "change_sort_order_with_scroll_wheel": {
+            "value": false
+        },
+        "show_sort_in_columns_button": {
+            "value": false
+        },
+        "show_sort_in_rows_button": {
+            "value": false
+        },
+        "show_move_all_button": {
+            "value": false
+        },
+        "show_button_tooltips": false
     },
     "AutoRefillSettings": {
         "ignore_locked_slots": false,
