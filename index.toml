@@ -54,7 +54,7 @@ hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "1894a44b24cd0b253b13917ebbc3d5eed36042c2a2bda0691e846e8ffae2a8f1"
+hash = "3d0b10cb2ffcd8d24d9f719f2f0e9f6f40b11d31f6854e4a34a272fa59944872"
 
 [[files]]
 file = "config/iris-excluded.json"
@@ -62,7 +62,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "f2e640a828b8955de0739eb62ae5819812ab563e5f2fb8c9222a7688aa2fc49d"
+hash = "e4ee5dd3ada4b5580905f0deeed28dd9cfa2ce446f77439b6034fb5b3cd2e26c"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "31e42ea0f0aa93cb91736f28f759daa1a7bfbe3030b1fad88a8b48371ec21849"
+hash = "2caeccfc4e600a6ddca9079fb05d07be41746da4674efbcfa896eb36410bf8d0"
 
 [[files]]
 file = "resourcepacks/even-better-enchants.pw.toml"
