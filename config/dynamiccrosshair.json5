@@ -1,5 +1,5 @@
 {
-	"dynamicCrosshair": false,
+	"dynamicCrosshair": true,
 	"disableDebugCrosshair": false,
 	"thirdPersonCrosshair": false,
 	"hideWithScreen": true,

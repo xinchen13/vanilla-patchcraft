@@ -34,7 +34,7 @@ hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
 file = "config/dynamiccrosshair.json5"
-hash = "f398e275aeb89ff1090351578ea50626080f3afba8958aca6e9fbcf93882a5d1"
+hash = "99458f0109609cff4e0c6f3afb3ba474865784321f1d6625311dceb6ff55fae2"
 
 [[files]]
 file = "config/entityculling.json"
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "2caeccfc4e600a6ddca9079fb05d07be41746da4674efbcfa896eb36410bf8d0"
+hash = "4754fa9dde6196b581d87fd3e8b18f65c0c2ab65786bc620a75299a30c2ee274"
 
 [[files]]
 file = "resourcepacks/even-better-enchants.pw.toml"

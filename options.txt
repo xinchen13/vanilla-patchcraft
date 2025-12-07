@@ -54,7 +54,7 @@ hideSplashTexts:false
 mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
-highContrastBlockOutline:false
+highContrastBlockOutline:true
 narratorHotkey:true
 resourcePacks:["vanilla","fabric","file/EvenBetterEnchants_v2.1_1.21.5+.zip"]
 incompatibleResourcePacks:[]
