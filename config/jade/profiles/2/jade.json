@@ -1,17 +1,47 @@
 {
+  "name": "@jade.profile_preset.minimalism",
+  "general": {
+    "displayTooltip": true,
+    "displayBlocks": true,
+    "displayEntities": true,
+    "displayBosses": true,
+    "displayMode": "LITE",
+    "fluidMode": "ANY",
+    "perspectiveMode": "CAMERA",
+    "extendedReach": 0.0,
+    "debug": false,
+    "itemModNameTooltip": true,
+    "bossBarOverlapMode": "HIDE_TOOLTIP",
+    "builtinCamouflage": true,
+    "hideFromTabList": true,
+    "hideFromGUIs": true
+  },
+  "overlay": {
+    "activeTheme": "jade:dark/slim",
+    "overlayPosX": 0.5,
+    "overlayPosY": 1.0,
+    "overlayScale": 1.0,
+    "overlayAnchorX": 0.5,
+    "overlayAnchorY": 0.0,
+    "autoScaleThreshold": 0.4,
+    "alpha": 0.0,
+    "iconMode": "INLINE",
+    "animation": true,
+    "disappearingDelay": 0.0
+  },
   "formatting": {
     "itemModNameStyle": {
-      "italic": true,
-      "color": "blue"
+      "color": "blue",
+      "italic": true
     }
   },
   "accessibility": {
-    "textBackgroundOpacity": 0.0,
-    "flipMainHand": false,
-    "narrateKeys": false,
     "enableTextToSpeech": false,
     "ttsMode": "TOGGLE",
-    "enableAccessibilityPlugin": false
+    "enableAccessibilityPlugin": false,
+    "textBackgroundOpacity": 0.0,
+    "flipMainHand": false,
+    "narrateKeys": false
   },
   "plugin": {
     "minecraft": {
@@ -80,6 +110,7 @@
     },
     "jade": {
       "coordinates.rel": false,
+      "mod_name.translated": true,
       "registry_name.special": false,
       "block_states": false,
       "distance": false,
@@ -90,35 +121,5 @@
       "block_properties": false,
       "mod_name": "ON"
     }
-  },
-  "name": "@jade.profile_preset.minimalism",
-  "general": {
-    "itemModNameTooltip": true,
-    "bossBarOverlapMode": "HIDE_TOOLTIP",
-    "builtinCamouflage": true,
-    "hideFromTabList": true,
-    "hideFromGUIs": true,
-    "perspectiveMode": "CAMERA",
-    "extendedReach": 0.0,
-    "debug": false,
-    "displayBosses": true,
-    "displayMode": "LITE",
-    "fluidMode": "ANY",
-    "displayTooltip": true,
-    "displayBlocks": true,
-    "displayEntities": true
-  },
-  "overlay": {
-    "iconMode": "INLINE",
-    "animation": true,
-    "disappearingDelay": 0.0,
-    "overlayAnchorY": 0.0,
-    "autoScaleThreshold": 0.4,
-    "alpha": 0.0,
-    "overlayPosY": 1.0,
-    "overlayScale": 1.0,
-    "overlayAnchorX": 0.5,
-    "activeTheme": "jade:dark/slim",
-    "overlayPosX": 0.5
   }
 }

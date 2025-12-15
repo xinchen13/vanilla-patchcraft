@@ -1,87 +1,147 @@
 {
-  "fabric-loader-0.17.3.jar (modloader)": {
-    "jarName": "fabric-loader-0.17.3.jar (modloader)",
+  "fabric-loader-0.18.2.jar (modloader)": {
+    "jarName": "fabric-loader-0.18.2.jar (modloader)",
     "modId": "fabric",
-    "version": "fabric-loader-0.17.3.jar"
+    "version": "fabric-loader-0.18.2.jar"
   },
-  "appleskin-fabric-mc1.21.9-3.0.7.jar": {
-    "jarName": "appleskin-fabric-mc1.21.9-3.0.7.jar",
+  "appleskin-fabric-mc1.21.11-3.0.7.jar": {
+    "jarName": "appleskin-fabric-mc1.21.11-3.0.7.jar",
     "modId": "appleskin",
-    "version": "3.0.7+mc1.21.9"
+    "version": "3.0.7+mc1.21.11",
+    "curseForgeHash": 2300737131,
+    "modrinthHash": "1e6270a1af621aba386b3613fd3c607f232e3bc3"
   },
-  "controlify-2.4.2+1.21.10-fabric.jar": {
-    "jarName": "controlify-2.4.2+1.21.10-fabric.jar",
-    "modId": "controlify",
-    "version": "2.4.2+1.21.10-fabric"
+  "bettermounthud-1.2.6.jar": {
+    "jarName": "bettermounthud-1.2.6.jar",
+    "modId": "bettermounthud",
+    "version": "1.2.6",
+    "curseForgeHash": 3121739203,
+    "modrinthHash": "e32f65110c66a0862617dd137531d20a0697f9a9"
   },
-  "CrashAssistant-fabric-1.21.5-1.21.10-1.10.21.jar": {
-    "jarName": "CrashAssistant-fabric-1.21.5-1.21.10-1.10.21.jar",
+  "CrashAssistant-fabric-1.21.5-1.21.11-1.10.27.jar": {
+    "jarName": "CrashAssistant-fabric-1.21.5-1.21.11-1.10.27.jar",
     "modId": "crash_assistant",
-    "version": "1.10.21"
+    "version": "1.10.27",
+    "curseForgeHash": 3419286580,
+    "modrinthHash": "04509966bdb18aee5e37b4e129025cda3e90a530"
   },
-  "dynamic-fps-3.10.1+minecraft-1.21.9-fabric.jar": {
-    "jarName": "dynamic-fps-3.10.1+minecraft-1.21.9-fabric.jar",
+  "dynamic-fps-3.11.0+minecraft-1.21.9-fabric.jar": {
+    "jarName": "dynamic-fps-3.11.0+minecraft-1.21.9-fabric.jar",
     "modId": "dynamic_fps",
-    "version": "3.10.1"
+    "version": "3.11.0",
+    "curseForgeHash": 100086900,
+    "modrinthHash": "5bd00a15edb9e11e918e381fc5326a796d0dc90c"
   },
-  "entityculling-fabric-1.9.3-mc1.21.10.jar": {
-    "jarName": "entityculling-fabric-1.9.3-mc1.21.10.jar",
+  "dynamiccrosshair-9.10+1.21.9-fabric.jar": {
+    "jarName": "dynamiccrosshair-9.10+1.21.9-fabric.jar",
+    "modId": "dynamiccrosshair",
+    "version": "9.10",
+    "curseForgeHash": 399164630,
+    "modrinthHash": "a95e3ef7e96005cc7714f3b2b9b086af5ed73885"
+  },
+  "entityculling-fabric-1.9.4-mc1.21.11.jar": {
+    "jarName": "entityculling-fabric-1.9.4-mc1.21.11.jar",
     "modId": "entityculling",
-    "version": "1.9.3"
+    "version": "1.9.4",
+    "curseForgeHash": 1758525493,
+    "modrinthHash": "b23ec118baf57787c5a1f4937fd0b3a599a03680"
   },
-  "fabric-api-0.138.3+1.21.10.jar": {
-    "jarName": "fabric-api-0.138.3+1.21.10.jar",
+  "fabric-api-0.139.5+1.21.11.jar": {
+    "jarName": "fabric-api-0.139.5+1.21.11.jar",
     "modId": "fabric-api",
-    "version": "0.138.3+1.21.10"
+    "version": "0.139.5+1.21.11",
+    "curseForgeHash": 1186499978,
+    "modrinthHash": "f69874167e636008887a1c1c4de3afdf1e7f5ddf"
   },
-  "ferritecore-8.0.2-fabric.jar": {
-    "jarName": "ferritecore-8.0.2-fabric.jar",
+  "fabric-language-kotlin-1.13.7+kotlin.2.2.21.jar": {
+    "jarName": "fabric-language-kotlin-1.13.7+kotlin.2.2.21.jar",
+    "modId": "fabric-language-kotlin",
+    "version": "1.13.7+kotlin.2.2.21",
+    "curseForgeHash": 577695437,
+    "modrinthHash": "ab71e8daf9a2d529204b5c28b3801713d22f3d46"
+  },
+  "ferritecore-8.0.3-fabric.jar": {
+    "jarName": "ferritecore-8.0.3-fabric.jar",
     "modId": "ferritecore",
-    "version": "8.0.2"
+    "version": "8.0.3",
+    "curseForgeHash": 2379164176,
+    "modrinthHash": "0d2b112df25059211ae84f102254dc552367d72e"
   },
-  "iris-fabric-1.9.6+mc1.21.9.jar": {
-    "jarName": "iris-fabric-1.9.6+mc1.21.9.jar",
+  "InventoryProfilesNext-fabric-1.21.11-2.2.2.jar": {
+    "jarName": "InventoryProfilesNext-fabric-1.21.11-2.2.2.jar",
+    "modId": "inventoryprofilesnext",
+    "version": "2.2.2",
+    "curseForgeHash": 1938543924,
+    "modrinthHash": "45f2496ee27e8b98b1c9649a2ecdd14472c6d8fe"
+  },
+  "iris-fabric-1.10.2+mc1.21.11.jar": {
+    "jarName": "iris-fabric-1.10.2+mc1.21.11.jar",
     "modId": "iris",
-    "version": "1.9.6+mc1.21.9"
+    "version": "1.10.2+mc1.21.11",
+    "curseForgeHash": 3844976521,
+    "modrinthHash": "027d7e37e96d0fb1bfcb9bb0d7193225e7fa9476"
   },
-  "Jade-1.21.9-Fabric-20.1.0.jar": {
-    "jarName": "Jade-1.21.9-Fabric-20.1.0.jar",
+  "Jade-1.21.11-Fabric-21.0.1.jar": {
+    "jarName": "Jade-1.21.11-Fabric-21.0.1.jar",
     "modId": "jade",
-    "version": "20.1.0+fabric"
+    "version": "21.0.1+fabric",
+    "curseForgeHash": 3855688701,
+    "modrinthHash": "8dae93d3cdbb6850735a438bb1f6e2a315ec7235"
   },
-  "journeymap-fabric-1.21.10-6.0.0-beta.54.jar": {
-    "jarName": "journeymap-fabric-1.21.10-6.0.0-beta.54.jar",
+  "journeymap-fabric-1.21.11-6.0.0-beta.53.jar": {
+    "jarName": "journeymap-fabric-1.21.11-6.0.0-beta.53.jar",
     "modId": "journeymap",
-    "version": "1.21.10-6.0.0-beta.54"
+    "version": "1.21.11-6.0.0-beta.53",
+    "curseForgeHash": 3534756559,
+    "modrinthHash": "96559dae3bfb816d3fe59b6105a8dc46ea127b8c"
   },
-  "lithium-fabric-0.20.1+mc1.21.10.jar": {
-    "jarName": "lithium-fabric-0.20.1+mc1.21.10.jar",
+  "libIPN-fabric-1.21.11-6.6.2.jar": {
+    "jarName": "libIPN-fabric-1.21.11-6.6.2.jar",
+    "modId": "libipn",
+    "version": "6.6.2",
+    "curseForgeHash": 171633703,
+    "modrinthHash": "bf7764431b252d2de415cb5c017d9645873b008e"
+  },
+  "lithium-fabric-0.21.1+mc1.21.11.jar": {
+    "jarName": "lithium-fabric-0.21.1+mc1.21.11.jar",
     "modId": "lithium",
-    "version": "0.20.1+mc1.21.10"
+    "version": "0.21.1+mc1.21.11",
+    "curseForgeHash": 2905297876,
+    "modrinthHash": "21e19758c0ba258c2a384ec1b77caa415fc482b0"
   },
-  "modmenu-16.0.0-rc.1.jar": {
-    "jarName": "modmenu-16.0.0-rc.1.jar",
+  "modmenu-17.0.0-alpha.1.jar": {
+    "jarName": "modmenu-17.0.0-alpha.1.jar",
     "modId": "modmenu",
-    "version": "16.0.0-rc.1"
+    "version": "17.0.0-alpha.1",
+    "curseForgeHash": 1908857229,
+    "modrinthHash": "b8582a34b433aed24478c9bb43156b66340d0f1f"
   },
-  "peek-fabric-1.21.10-1.4.9.jar": {
-    "jarName": "peek-fabric-1.21.10-1.4.9.jar",
+  "peek-fabric-1.21.11-1.4.9.jar": {
+    "jarName": "peek-fabric-1.21.11-1.4.9.jar",
     "modId": "peek",
-    "version": "1.21.10-1.4.9"
+    "version": "1.21.11-1.4.9",
+    "curseForgeHash": 2606277160,
+    "modrinthHash": "090fc3caaf9cc3c7124c3a68c157fc566e5db5b0"
   },
   "placeholder-api-2.8.1+1.21.10.jar": {
     "jarName": "placeholder-api-2.8.1+1.21.10.jar",
     "modId": "placeholder-api",
-    "version": "2.8.1+1.21.10"
+    "version": "2.8.1+1.21.10",
+    "curseForgeHash": 2695672904,
+    "modrinthHash": "4950367323147265b272ad2156bf1a343db3f64c"
   },
-  "sodium-fabric-0.7.3+mc1.21.10.jar": {
-    "jarName": "sodium-fabric-0.7.3+mc1.21.10.jar",
+  "sodium-fabric-0.8.0+mc1.21.11.jar": {
+    "jarName": "sodium-fabric-0.8.0+mc1.21.11.jar",
     "modId": "sodium",
-    "version": "0.7.3+mc1.21.10"
+    "version": "0.8.0+mc1.21.11",
+    "curseForgeHash": 825046180,
+    "modrinthHash": "331e5f5b6f6b9b471e39a2879dac32801018b8c0"
   },
-  "yet_another_config_lib_v3-3.8.0+1.21.9-fabric.jar": {
-    "jarName": "yet_another_config_lib_v3-3.8.0+1.21.9-fabric.jar",
+  "yet_another_config_lib_v3-3.8.1+1.21.11-fabric.jar": {
+    "jarName": "yet_another_config_lib_v3-3.8.1+1.21.11-fabric.jar",
     "modId": "yet_another_config_lib_v3",
-    "version": "3.8.0+1.21.9-fabric"
+    "version": "3.8.1+1.21.11-fabric",
+    "curseForgeHash": 470413832,
+    "modrinthHash": "dab747453ad62404398b3dfe08737b93e6065b7f"
   }
 }

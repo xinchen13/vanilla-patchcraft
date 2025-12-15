@@ -1,13 +1,13 @@
 name = "Faithful 64x"
-filename = "Faithful 64x - September 2025 Release.zip"
+filename = "Faithful 64x - December 2025 Release.zip"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7e4b269b8f5cdd229aacf8a181fc91d50240b5a9"
+hash = "62f9e6170fac846648ade2a1873ad5c65e19d658"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7049187
+file-id = 7312069
 project-id = 419139
