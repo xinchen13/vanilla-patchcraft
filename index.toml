@@ -10,7 +10,7 @@ hash = "65edc28ca2bf6bd3e3684ae545fb74bcc0ec935a40d6ac60cb68c00c152e34fb"
 
 [[files]]
 file = "config/crash_assistant/config.toml"
-hash = "abcc4926046ab2e04dbe63af250b6cfa604cf7460593d0ae589ca09320725e35"
+hash = "755e6ee75977c54dc22a3631822cd8adc8b4b57b49776432f67b41c8043a67fa"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/README.md"
@@ -18,7 +18,7 @@ hash = "52f394cd3754a29a6f236b1fe622bb430fa7e4632bce262eeb0333d71842bb52"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "1b29100e87138d7206ab1f5dd1ef2a848866cb049c6b0a52b0b564ab4f5ab65c"
+hash = "4a6be59e11c56860e8a3499946c0aeec078c4c92178f6f35d9f42b26b34fa095"
 
 [[files]]
 file = "config/crash_assistant/problematic_mods_config.json"
@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "1def4a57b3d83593ed3031ab014b570ad3df7312f513af1cde2c6d436e1f1724"
+hash = "688283363bd049ee4cbd1416ca412d7e039ec5a5d86f6f690149ba12b3b2297b"
 metafile = true
 
 [[files]]
@@ -236,12 +236,17 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "61aa9b01e640b442a552057046f914e11aefa5b24ebbeb0a5bde1f310c769a91"
+hash = "d2827a2f8693193f30a6714a8e164e6a7b19bd5c0edccd0229cf4f4904182606"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "c66e4b3576440113259b5bae8d0660b8e0023ce852156f27383f8651ecc4bfe3"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "4a7720c5d70dad3b0cdc21d9ccdeeed98e1d727243520c781aeb37c6bf9c1558"
 metafile = true
 
 [[files]]
