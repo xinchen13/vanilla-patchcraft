@@ -63,7 +63,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:true
 narratorHotkey:true
-resourcePacks:["vanilla","file/EvenBetterEnchants_v3_1.21.5+.zip"]
+resourcePacks:["vanilla","file/Squareful方纹v26.0.1.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:zh_cn

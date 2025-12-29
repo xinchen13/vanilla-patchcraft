@@ -181,12 +181,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-crosshair.pw.toml"
-hash = "49975a49af51ec632ca329870f383f94034e44913cd7a9b64b701efe97e5d068"
+hash = "1cfa10480536f3d3712bf11e8f7d12fc9e5b27000698eb33e78b12a1778456ad"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "b8f6040c1859b1df8d144d71133809605005a35f10a7c54126fe19d135c772cd"
+hash = "2e1dbd715bdbf7c5ccc0f540db953df2952045ebae46f1b5c81521261c97784d"
 metafile = true
 
 [[files]]
@@ -226,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "4f36d47bca8606d8085073538221e0383b54dc845058bd098617127d1bd801e2"
+hash = "51ae3f4d46495b8d433de22e26fcb6ed7e36e0f75c80293fea670ffba45a706a"
 metafile = true
 
 [[files]]
@@ -271,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "c9cc84b9d3934f1f6e2658304c28bcea8f80b8924adc740ad8b918394b4246f6"
+hash = "9c1d3e062033b5f2e69afef4d9f272a628cf352865a372084ab4323e56786f67"
 
 [[files]]
 file = "resourcepacks/even-better-enchants.pw.toml"
@@ -281,6 +281,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/faithful-64x.pw.toml"
 hash = "3091a2a3c616c19b256443c394bdb15bfe0dbd0179f4b5cad3d44eb01b80ab4a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xekr-square-pattern.pw.toml"
+hash = "ba6a2e0f07817808ad21b569da64af8ed33dd08e33c161f41a83ab64242e282f"
 metafile = true
 
 [[files]]
