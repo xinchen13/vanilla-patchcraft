@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "61222b46a3ba407bddb02bdd285766efd745da7a06ec78c425b8a45436ea8ebc"
+hash = "663cd78a4fc8c2697fae7d0cdb6aa126846241019abcec02897276182358192e"
 metafile = true
 
 [[files]]
@@ -296,6 +296,11 @@ metafile = true
 [[files]]
 file = "shaderpacks/bliss-shader.pw.toml"
 hash = "f27ca42de7b92a90cf387dbed38bbdb33013201a7cf5b2723a9830b3120634e0"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "71cf0534dd8b064616a6120c2b93023340bc79d2db21a1d9197087b9c9d7eee5"
 metafile = true
 
 [[files]]
