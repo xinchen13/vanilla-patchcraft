@@ -271,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "33f7179dc7f07dfa514a8899076680c592b746e1027be4a0399db8ad24a67fc1"
+hash = "ae1a68177baa7b61dcdf0e52b6be9ec84c29a7e05ea7826df1b3d9ddf8caa9fc"
 
 [[files]]
 file = "resourcepacks/even-better-enchants.pw.toml"
@@ -281,6 +281,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/faithful-64x.pw.toml"
 hash = "3091a2a3c616c19b256443c394bdb15bfe0dbd0179f4b5cad3d44eb01b80ab4a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xekr-redstone-display.pw.toml"
+hash = "b3daa5658f0ffb5cc7640e7335295e71f18523a496871b3e4357ed4e2f100ade"
 metafile = true
 
 [[files]]

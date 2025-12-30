@@ -1,12 +1,12 @@
 name = "Vanilla Patchcraft"
 author = "xinchen"
-version = "1.1.2"
+version = "1.1.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "196b2a15307949f653239e5e7e6b9424c2eacf6f86ac974791ad85577ce19522"
+hash = "370281a5619f06daf74eaad975cf0c5eacaee2442f036449a1ee07f5cc2e9bd4"
 
 [versions]
 fabric = "0.18.2"
