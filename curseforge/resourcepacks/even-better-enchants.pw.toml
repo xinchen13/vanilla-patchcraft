@@ -1,0 +1,13 @@
+name = "Even Better Enchants"
+filename = "EvenBetterEnchants_v3_1.21.5+.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "903411efb598ede74f390d175ac012eb2f3d908f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7360511
+project-id = 639779
