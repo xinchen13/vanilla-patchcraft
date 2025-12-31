@@ -15,8 +15,9 @@ A lightweight modpack designed to enhance the vanilla Minecraft experience. It f
 
 ## Gallery
 
-<div style="display:flex; overflow-x:auto; gap:12px; padding:8px 0;">
+<div style="display:flex; flex-wrap:nowrap; overflow-x:auto; gap:16px;">
   <img src="./figs/1.png" height="180">
   <img src="./figs/2.png" height="180">
   <img src="./figs/3.png" height="180">
 </div>
+
