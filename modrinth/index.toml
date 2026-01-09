@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "9c8cb70f1393fc913c94c3f6a534a2df8040189a20cf0e27c94fa8ca38f7f4aa"
+hash = "402a093f026c4cd1afb5cfa73692f74c96bab2bacff084554e972ef43fd0ca1e"
 
 [[files]]
 file = "resourcepacks/even-better-enchants.pw.toml"
@@ -291,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/xekrsquarepattern.pw.toml"
-hash = "f966c6105ad6dae12f96b235f46905a54f357eb5edfa162ad4f7bfa8eb30a108"
+hash = "7f2145532f06271279293befaea1c625be334e8118413f21af48b0e505491155"
 metafile = true
 
 [[files]]
