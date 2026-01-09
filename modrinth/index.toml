@@ -171,6 +171,11 @@ hash = "6ef53c2c4e506e111b4bd7c1bc8804a5a7dcb2f6e3b79054575e73f6ce61ee94"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a06ef129798265e0d7249426fb0ed5c506725b0460dc3dfdb975b8978480895e"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "d53b229a5588d33a8dac8682cba4371b22b2cbe2541c7129506cfbd44daaf6f8"
 metafile = true
@@ -272,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "6b2e6c4faa6fa928c5c5c582752b80401e418d4f897839b7d0338acc08e94803"
+hash = "1113d43c39a9866252a83ee50d16aa3ce6fcf749acd84d58b05ca09eba4d187b"
 metafile = true
 
 [[files]]
