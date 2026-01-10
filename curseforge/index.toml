@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "b008f82e2e44de778ef082375e2f041ccffc17878e4c0ddca964f35629890952"
+hash = "bffe001349d2eb3fea86f1d929e3241485e7a05654125ba8e5fb5f6c4dd89f6e"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "0fef3ebf7fbbb9b6ccfc1ea1b7c38ddcca8cda86978c0f2f04121f22b26bc4e3"
+hash = "037f48cc503913e20d60a198fe1d6b40953e32cfb0fdff45361bbf1cdf6708ad"
 metafile = true
 
 [[files]]
