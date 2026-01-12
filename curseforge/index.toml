@@ -130,7 +130,7 @@ hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.core.config"
-hash = "c2015acad049d4aa879dce8bd56dbbfcf7042835ee4810a79f24c4d6173a602d"
+hash = "e7253db85c62861481eab76820c635b3d43b6ef9f91db3e3f725cb17767082dc"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.fullmap.config"
