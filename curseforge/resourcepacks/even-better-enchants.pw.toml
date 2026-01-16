@@ -1,6 +1,6 @@
 name = "Even Better Enchants"
 filename = "EvenBetterEnchants_v3_1.21.5+.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

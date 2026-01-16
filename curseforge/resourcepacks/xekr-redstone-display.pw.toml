@@ -1,6 +1,6 @@
 name = "XeKr redstone display"
 filename = "XK redstone display 26.0.1.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

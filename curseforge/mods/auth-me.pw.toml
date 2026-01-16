@@ -1,6 +1,6 @@
 name = "Auth Me"
 filename = "authme-fabric-9.1.0+1.21.11.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

@@ -1,6 +1,6 @@
 name = "No Chat Reports"
 filename = "NoChatReports-FABRIC-1.21.11-v2.18.0.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

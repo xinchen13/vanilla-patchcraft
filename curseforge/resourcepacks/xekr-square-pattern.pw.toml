@@ -1,6 +1,6 @@
 name = "Squareful"
 filename = "Squareful方纹v26.0.5.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

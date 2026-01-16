@@ -1,6 +1,6 @@
 name = "Controlify (Controller support)"
 filename = "controlify-2.5.2+1.21.11-fabric.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

@@ -1,6 +1,6 @@
 name = "AppleSkin"
 filename = "appleskin-fabric-mc1.21.11-3.0.7.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

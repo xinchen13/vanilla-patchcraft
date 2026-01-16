@@ -1,6 +1,6 @@
 name = "Bliss Shaders"
 filename = "Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
