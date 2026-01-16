@@ -14,21 +14,17 @@ A lightweight modpack designed to enhance the vanilla Minecraft experience. It f
 
 ## Features
 
-### ✨ Enhanced Vanilla Experience
+- ✨ Enhanced Vanilla Experience
+- ⚡ Quality-of-Life Improvement
+- 🚀 Visual & Performance Optimizations
+- 🖧 Server Compatibility: Works seamlessly with a vanilla server
+
+## Modlist
 
 | 📦 **Name**             | 🛠️ **Type**  | 📝 **Description**                                    |
-| ----------------------- | ------------- | ----------------------------------------------------- |
+| ----------------------- | ------------- | -----------------------------------------------------  |
 | Jade                    | Mod           | Displays contextual block and entity information 🪷   |
-| JourneyMap              | Mod           | Minimap and full-screen world map for exploration 🗺️ |
-| Faithful 64x            | Resource Pack | Higher-resolution textures faithful to vanilla 🎨     |
-| Even Better Enchants    | Resource Pack | Clearer and more readable enchantment visuals ✨       |
-| Xekr Redstone Display   | Resource Pack | Visualizes redstone signal strength 🔴                |
-| Xekr Square Pattern     | Resource Pack | Squarelize,texture combination, exquisite model ◻️      |
-
-### ⚡ Quality-of-Life Improvement
-
-| 📦 **Name**             | 🛠️ **Type**  | 📝 **Description**                                    |
-| ----------------------- | ------------- | ----------------------------------------------------- |
+| JourneyMap              | Mod           | Minimap and full-screen world map for exploration 🗺️  |
 | AppleSkin               | Mod           | Shows hunger and saturation values 🍎                 |
 | Better Mount HUD        | Mod           | Displays mount health while riding 🐴                 |
 | Inventory Profiles Next | Mod           | Advanced inventory sorting and management 📦          |
@@ -36,14 +32,9 @@ A lightweight modpack designed to enhance the vanilla Minecraft experience. It f
 | Peek                    | Mod           | Preview container contents without opening 👀         |
 | Controlify              | Mod           | Improved controller support 🎮                        |
 | Mod Menu                | Mod           | In-game mod configuration menu ⚙️                     |
-| Crash Assistant         | Mod           | Helps diagnose crashes with readable reports 🛠️      |
+| Crash Assistant         | Mod           | Helps diagnose crashes with readable reports 🛠️       |
 | No Chat Reports         | Mod           | Removes chat reporting system (client-side) 🚫        |
-
-### 🚀 Visual & Performance Optimizations
-
-| 📦 **Name**             | 🛠️ **Type**  | 📝 **Description**                                    |
-| ----------------------- | ------------- | ----------------------------------------------------- |
-| Sodium                  | Mod           | Major rendering performance improvements 🖥️          |
+| Sodium                  | Mod           | Major rendering performance improvements 🖥️           |
 | Lithium                 | Mod           | Optimizes game logic and physics ⚙️                   |
 | FerriteCore             | Mod           | Reduces memory usage 💾                               |
 | Entity Culling          | Mod           | Skips rendering unseen entities 👻                    |
@@ -52,9 +43,10 @@ A lightweight modpack designed to enhance the vanilla Minecraft experience. It f
 | Continuity              | Mod           | Enables connected textures 🧩                         |
 | Complementary Unbound   | Shader Pack   | Highly customizable, high-quality shaders 🌈          |
 | Bliss Shader            | Shader Pack   | Soft and cinematic lighting style 🌅                  |
-
-- Supported Minecraft Version: [1.21.10](https://github.com/xinchen13/vanilla-patchcraft/tree/1.21.10), [1.21.11](https://github.com/xinchen13/vanilla-patchcraft/tree/1.21.11)
-- Server Compatibility: Works seamlessly with a vanilla server
+| Faithful 64x            | Resource Pack | Higher-resolution textures faithful to vanilla 🎨     |
+| Even Better Enchants    | Resource Pack | Clearer and more readable enchantment visuals ✨      |
+| Xekr Redstone Display   | Resource Pack | Visualizes redstone signal strength 🔴                |
+| Xekr Square Pattern     | Resource Pack | Squarelize,texture combination, exquisite model ◻️    |
 
 ## Credits
 - [Fabulously-Optimized](https://github.com/Fabulously-Optimized/fabulously-optimized)
