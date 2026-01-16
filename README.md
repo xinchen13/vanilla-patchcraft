@@ -41,6 +41,7 @@ A lightweight modpack designed to enhance the vanilla Minecraft experience. It f
 | Dynamic FPS             | Mod           | Lowers FPS and resource usage when idle 💤            |
 | Iris Shaders            | Mod           | Shader loader and manager 🎨                          |
 | Continuity              | Mod           | Enables connected textures 🧩                         |
+| Auth Me                 | Mod           | Authenticate and re-validate your session ✅️          |
 | Complementary Unbound  &nbsp; &nbsp;  | Shader Pack   | Highly customizable, high-quality shaders 🌈          |
 | Bliss Shader            | Shader Pack   | Soft and cinematic lighting style 🌅                  |
 | Faithful 64x            | Resource Pack &nbsp; &nbsp; | Higher-resolution textures faithful to vanilla 🎨     |

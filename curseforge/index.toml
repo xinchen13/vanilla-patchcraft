@@ -166,6 +166,11 @@ hash = "de4779f316f62247e78c2594428a8ff5134bae55a2c329e1b6f7e853c2babb8a"
 metafile = true
 
 [[files]]
+file = "mods/auth-me.pw.toml"
+hash = "7c0f9476539a690fb626d23529c5a534f86f467721e2004ec2e1203c3d09842f"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "a8321c6d297c9a266a82600942a2b329f374abb9f3fdd0810499a2f26a082b2d"
 metafile = true
