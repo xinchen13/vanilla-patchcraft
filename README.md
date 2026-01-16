@@ -9,9 +9,6 @@
 [url-modrinth]: <https://modrinth.com/modpack/vanilla-patchcraft>
 
 
-## Overview
-A lightweight modpack designed to enhance the vanilla Minecraft experience. It focuses on quality-of-life improvements, visual enhancements, and minor gameplay tweaks without changing the core vanilla mechanics.
-
 ## Features
 
 - ✨ Enhanced Vanilla Experience
@@ -41,9 +38,9 @@ A lightweight modpack designed to enhance the vanilla Minecraft experience. It f
 | Dynamic FPS             | Mod           | Lowers FPS and resource usage when idle 💤            |
 | Iris Shaders            | Mod           | Shader loader and manager 🎨                          |
 | Continuity              | Mod           | Enables connected textures 🧩                         |
-| Complementary Unbound   | Shader Pack   | Highly customizable, high-quality shaders 🌈          |
+| Complementary Unbound &nbsp; &nbsp;   | Shader Pack   | Highly customizable, high-quality shaders 🌈          |
 | Bliss Shader            | Shader Pack   | Soft and cinematic lighting style 🌅                  |
-| Faithful 64x            | Resource Pack | Higher-resolution textures faithful to vanilla 🎨     |
+| Faithful 64x            | Resource Pack &nbsp; &nbsp; &nbsp; | Higher-resolution textures faithful to vanilla 🎨     |
 | Even Better Enchants    | Resource Pack | Clearer and more readable enchantment visuals ✨      |
 | Xekr Redstone Display   | Resource Pack | Visualizes redstone signal strength 🔴                |
 | Xekr Square Pattern     | Resource Pack | Squarelize,texture combination, exquisite model ◻️    |
