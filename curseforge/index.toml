@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferritecore-fabric.pw.toml"
-hash = "9a10f25de1b561842a61cdbef31a5aeb1d059c6ee8617e788da8d9d21cf71a9c"
+hash = "5a51cee5d228be0f46e39c4e1e580458d91859a6265390f16d9d5fbc97891e0b"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "8d51ddcc11d816a4a489d1448bd38f9d369e8714ffd1c5c8077516fc91111743"
+hash = "03ffd520e168f4613df731b1eead7825d6b6fe735070db0f2107fb69f3f894b5"
 metafile = true
 
 [[files]]
@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "af004cb13da62d5bb2ec269aefd186828b0242fdc76fa643c5c2a773f96768ce"
+hash = "d2c271e32d4c9278fdc2ae423e8b4a97f58efc32d6ebb91958a6c4acd0e84e57"
 metafile = true
 
 [[files]]

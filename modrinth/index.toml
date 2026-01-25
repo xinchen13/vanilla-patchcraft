@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "76a12a836d4c7f0f943a1e391dd2d7b5c4673caa497fff16593d49449376b117"
+hash = "816b735b2ad505476201800a99f527e61b392b712b9d20ca9edcce05f412fe87"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "b7d33095f206cb34dc8cd3d5410a00597439a2fc793f4c158c7a2ecfc7e85e82"
+hash = "276947b1f9933ca2220a00736aba177e4034ca9a45cad9f258abf762fdb3bb0b"
 metafile = true
 
 [[files]]
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "dd8c7eed10a3639d76595603142e1d18f6d26262747138c9442d70311006be5e"
+hash = "ff83143e43cae976d57a1dd5a0dce453dbbacfb672e31700b67c7ca92d969b5c"
 metafile = true
 
 [[files]]
