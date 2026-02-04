@@ -54,7 +54,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "bcdad57b94a51caa3a31d81f1eaf8da7959ac790309c938adc57024c3dd8d2ca"
+hash = "2de7d98b6e0a4062bebf43235f9d9a90ea6fcfa1219113e89f9e2cc83cfab89b"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -316,5 +316,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "70db0963bd7131d0cd9a90b0c38bb84b709034e2cec004a675b4bff1f058102d"
+hash = "c5bc3ca7208ce354e61a0827ee83ab6e5cdd27341e7f8bfe4ca033ce35a08192"
 metafile = true
