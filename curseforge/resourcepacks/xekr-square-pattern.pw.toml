@@ -1,13 +1,13 @@
 name = "Squareful"
-filename = "Squareful方纹v26.0.5.zip"
+filename = "Squareful方纹v26.0.6.zip"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "0b4446b9b6a9ca3f8c7782b7c23c0fc6506d4fd2"
+hash = "7581e0322e139e41d8d42721bfebb06a87fff714"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7436402
+file-id = 7627623
 project-id = 338808
