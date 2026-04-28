@@ -28,7 +28,6 @@ A lightweight modpack designed to enhance the vanilla Minecraft experience. It f
 | Dynamic Crosshair       | Mod           | Context-aware crosshair behavior 🎯                   |
 | Peek                    | Mod           | Preview container contents without opening 👀         |
 | Mod Menu                | Mod           | In-game mod configuration menu ⚙️                     |
-| Crash Assistant         | Mod           | Helps diagnose crashes with readable reports 🛠️       |
 | No Chat Reports         | Mod           | Removes chat reporting system (client-side) 🚫        |
 | Sodium                  | Mod           | Major rendering performance improvements 🖥️           |
 | Lithium                 | Mod           | Optimizes game logic and physics ⚙️                   |
@@ -42,8 +41,10 @@ A lightweight modpack designed to enhance the vanilla Minecraft experience. It f
 | Complementary Unbound  &nbsp; &nbsp;  | Shader Pack   | Highly customizable, high-quality shaders 🌈          |
 | Bliss Shader            | Shader Pack   | Soft and cinematic lighting style 🌅                  |
 | Faithful 64x            | Resource Pack &nbsp; &nbsp; | Higher-resolution textures faithful to vanilla 🎨     |
-| Xekr Redstone Display   | Resource Pack | Visualizes redstone signal strength 🔴                |
-| Xekr Square Pattern     | Resource Pack | Squarelize,texture combination, exquisite model ◻️    |
+| Xekr Redstone Display\*   | Resource Pack | Visualizes redstone signal strength 🔴                |
+| Xekr Square Pattern\*     | Resource Pack | Squarelize,texture combination, exquisite model ◻️    |
+
+\* means temporarily unavailable, will be added back in the future
 
 ## Credits
 - [Fabulously-Optimized](https://github.com/Fabulously-Optimized/fabulously-optimized)

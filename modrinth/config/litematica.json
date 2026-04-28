@@ -120,7 +120,7 @@
       "keys": ""
     },
     "executeOperation": {
-      "keys": ""
+      "keys": "SLASH"
     },
     "invertGhostBlockRenderState": {
       "keys": ""
@@ -129,16 +129,16 @@
       "keys": ""
     },
     "layerModeNext": {
-      "keys": "M,PAGE_UP"
+      "keys": ""
     },
     "layerModePrevious": {
-      "keys": "M,PAGE_DOWN"
+      "keys": ""
     },
     "layerNext": {
-      "keys": "PAGE_UP"
+      "keys": ""
     },
     "layerPrevious": {
-      "keys": "PAGE_DOWN"
+      "keys": ""
     },
     "layerSetHere": {
       "keys": ""
@@ -153,7 +153,7 @@
       "keys": ""
     },
     "openGuiAreaSettings": {
-      "keys": "KP_MULTIPLY"
+      "keys": ""
     },
     "openGuiLoadedSchematics": {
       "keys": ""
@@ -165,7 +165,7 @@
       "keys": "M,L"
     },
     "openGuiPlacementSettings": {
-      "keys": "KP_SUBTRACT"
+      "keys": ""
     },
     "openGuiSchematicPlacements": {
       "keys": "M,P"
@@ -183,10 +183,10 @@
       "keys": "M,C"
     },
     "operationModeChangeModifier": {
-      "keys": "LEFT_CONTROL"
+      "keys": ""
     },
     "pickBlockFirst": {
-      "keys": "BUTTON_3"
+      "keys": ""
     },
     "pickBlockLast": {
       "keys": ""
@@ -231,7 +231,7 @@
       "keys": ""
     },
     "schematicPlacementRotation": {
-      "keys": ""
+      "keys": "PERIOD"
     },
     "schematicPlacementMirror": {
       "keys": ""
@@ -258,10 +258,10 @@
       "keys": ""
     },
     "selectionNudgeModifier": {
-      "keys": "LEFT_ALT"
+      "keys": ""
     },
     "selectionModeCycle": {
-      "keys": "LEFT_CONTROL,M"
+      "keys": ""
     },
     "selectionShrink": {
       "keys": ""

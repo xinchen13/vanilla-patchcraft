@@ -9,8 +9,12 @@ file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "02766343605c8471031e932f99070cd40d25ea3b5cde78a959037623ddea01bb"
 
 [[files]]
+file = "config/jade/jade.json"
+hash = "35d4335d2aa873eae9b700ff4097bffa7d317b0d532cd9af56db197aba17c653"
+
+[[files]]
 file = "config/litematica.json"
-hash = "edcf939ef43c35ac95ebf00c28347acdc98c1fa13bae0689c4628327e1986fa6"
+hash = "19dec27f87b96e9b1a82447b8497942847d990ad3b1ec098c86f9026a3f83695"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.core.config"
@@ -70,11 +74,6 @@ hash = "c7e5c4ae7f25c1954a2327f5dd1edece3ba9dc07039d39bc9beb435e4a18bf82"
 metafile = true
 
 [[files]]
-file = "mods/crash-assistant.pw.toml"
-hash = "6ce63927ee36334ced0cfbeae2e885595c5a75ca0e39633d66b35a2904ee36eb"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "0b4721522ae8497677ff44178646d768863825d92e925ac93ab97c02f165c08c"
 metafile = true
@@ -91,7 +90,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "1b7dddabe21e51ddc2a0f1a304523089c4aa80dfe03d1921fdb6847a9a7f1065"
+hash = "f88b106c6c7500d912c11c973d9c124d52b1577c52630c282720367312452d24"
 metafile = true
 
 [[files]]
