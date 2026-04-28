@@ -1,10 +1,7 @@
 # Vanilla Patchcraft Modpack
 
-[![CurseForge][img-cf]][url-cf]
 [![Modrinth][img-modrinth]][url-modrinth]
 
-[img-cf]: <https://img.shields.io/curseforge/dt/1415602?style=for-the-badge&label=CurseForge&color=orange&logoColor=orange&labelColor=black&logo=curseforge>
-[url-cf]: <https://www.curseforge.com/minecraft/modpacks/vanilla-patchcraft>
 [img-modrinth]: <https://img.shields.io/modrinth/dt/WGVycnsJ?style=for-the-badge&label=Modrinth&color=darkgreen&labelColor=black&logo=modrinth>
 [url-modrinth]: <https://modrinth.com/modpack/vanilla-patchcraft>
 
@@ -30,7 +27,6 @@ A lightweight modpack designed to enhance the vanilla Minecraft experience. It f
 | Inventory Profiles Next | Mod           | Advanced inventory sorting and management 📦          |
 | Dynamic Crosshair       | Mod           | Context-aware crosshair behavior 🎯                   |
 | Peek                    | Mod           | Preview container contents without opening 👀         |
-| Controlify              | Mod           | Improved controller support 🎮                        |
 | Mod Menu                | Mod           | In-game mod configuration menu ⚙️                     |
 | Crash Assistant         | Mod           | Helps diagnose crashes with readable reports 🛠️       |
 | No Chat Reports         | Mod           | Removes chat reporting system (client-side) 🚫        |
@@ -42,10 +38,10 @@ A lightweight modpack designed to enhance the vanilla Minecraft experience. It f
 | Iris Shaders            | Mod           | Shader loader and manager 🎨                          |
 | Continuity              | Mod           | Enables connected textures 🧩                         |
 | Auth Me                 | Mod           | Authenticate and re-validate your session ✅️          |
+| Litematica              | Mod           | Precise schematic placement and building tools 📐     |
 | Complementary Unbound  &nbsp; &nbsp;  | Shader Pack   | Highly customizable, high-quality shaders 🌈          |
 | Bliss Shader            | Shader Pack   | Soft and cinematic lighting style 🌅                  |
 | Faithful 64x            | Resource Pack &nbsp; &nbsp; | Higher-resolution textures faithful to vanilla 🎨     |
-| Even Better Enchants    | Resource Pack | Clearer and more readable enchantment visuals ✨      |
 | Xekr Redstone Display   | Resource Pack | Visualizes redstone signal strength 🔴                |
 | Xekr Square Pattern     | Resource Pack | Squarelize,texture combination, exquisite model ◻️    |
 

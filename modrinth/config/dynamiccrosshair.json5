@@ -1,5 +1,5 @@
 {
-	"dynamicCrosshair": true,
+	"dynamicCrosshair": false,
 	"disableDebugCrosshair": false,
 	"thirdPersonCrosshair": false,
 	"hideWithScreen": true,
@@ -24,7 +24,7 @@
 	},
 	"color": {
 		"overrideColor": false,
-		"customColor": -8065599,
+		"customColor": -5588020,
 		"enableBlend": true
 	},
 	"dynamicCrosshairStyle": true,

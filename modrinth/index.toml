@@ -1,312 +1,186 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/appleskin.json5"
-hash = "65edc28ca2bf6bd3e3684ae545fb74bcc0ec935a40d6ac60cb68c00c152e34fb"
-
-[[files]]
-file = "config/crash_assistant/config.toml"
-hash = "f461f5331b5eb50f9413809f4d3cd0a08616097fcb0e6c34c3066caa7bce0a0a"
-
-[[files]]
-file = "config/crash_assistant/crash_assistant_localization_overrides/README.md"
-hash = "943e1c3672b8a03f27519b357091133205119c7b3db2fcc4c25b597cabf8926d"
-
-[[files]]
-file = "config/crash_assistant/modlist.json"
-hash = "25a2eb4f870f63fe4fc9f94f2b01b8e5de18ef6876744a0fa1686ba166b8c44c"
-
-[[files]]
-file = "config/crash_assistant/scripts/log_analysis/example.jexl"
-hash = "adde7e5e42b9d716f14a9bc49797999a21a0ee05cc67e71410a232f830115b3b"
-
-[[files]]
-file = "config/crash_assistant/scripts/startup/example.jexl"
-hash = "cc3bd295f04eb052b64acf161c539be3b089b4ef73d6973cdb2c3cda3c801680"
-
-[[files]]
-file = "config/dynamic_fps.json"
-hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
-
-[[files]]
 file = "config/dynamiccrosshair.json5"
-hash = "99458f0109609cff4e0c6f3afb3ba474865784321f1d6625311dceb6ff55fae2"
-
-[[files]]
-file = "config/entityculling.json"
-hash = "5110d83fa12df053d48eb3bcfded9d174e617910ce3e6c72f01dfc248c4e6abb"
-
-[[files]]
-file = "config/fabric/indigo-renderer.properties"
-hash = "6472d9159617bd6c20843fbd6f30a2ba6b3b3224d0a3870ba804c3e51b88c1f7"
-
-[[files]]
-file = "config/ferritecore.mixin.properties"
-hash = "bdd54ad580fc678a117e4f559daaed5ebbe0dde176127ddb95dd2d5e5b4e4818"
-
-[[files]]
-file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
-hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
+hash = "412066a69288a585f9a100b4082e3d6c6cbcfd38d383b7c4799ad255fc187727"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "3d0b10cb2ffcd8d24d9f719f2f0e9f6f40b11d31f6854e4a34a272fa59944872"
+hash = "02766343605c8471031e932f99070cd40d25ea3b5cde78a959037623ddea01bb"
 
 [[files]]
-file = "config/iris-excluded.json"
-hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
-
-[[files]]
-file = "config/iris.properties"
-hash = "42ac8fcaa83e2d460f43997374029454938ca325eb68c57f40180c4dc7ab68ba"
-
-[[files]]
-file = "config/jade/hide-blocks.json"
-hash = "881bebe1f34ae249fc7d83f6a0d97ce3598746c133bc369775fc48fdeb5e1a76"
-
-[[files]]
-file = "config/jade/hide-entities.json"
-hash = "4aa6e50e59ce75cc6e335e69ac98277f3d5afc1b016bb6c14aeece67a4ebb543"
-
-[[files]]
-file = "config/jade/hide-mob-effects.json"
-hash = "a5c36f4ed48b1262f7f7d7be731c87c18aa6fdb79aaddb54568f9f8d526925c7"
-
-[[files]]
-file = "config/jade/jade.json"
-hash = "1031e3fece00c77d05211268048221eb6d4ac191bb486047f0e0c18d5a9eb78d"
-
-[[files]]
-file = "config/jade/profiles/1/jade.json"
-hash = "b78a0c24dc78612805066acb31be76e23423ae4a8392820aae1163fe90a47760"
-
-[[files]]
-file = "config/jade/profiles/2/jade.json"
-hash = "470c98e9a24947a2eac8d5f6c1cf619840d2d93e6625b0557e80cfc7f3ad7fe6"
-
-[[files]]
-file = "config/jade/profiles/3/jade.json"
-hash = "65ef88917bf7478cd42766b0394adda2b6837a130cdac74a948ee447c2309e0a"
-
-[[files]]
-file = "config/jade/server-plugin-overrides.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "config/jade/sort-order.json"
-hash = "c0235d429020dce0cd44eb11e34a728f83e8416ef5b61bd9607af370e963ad6c"
-
-[[files]]
-file = "config/lithium.properties"
-hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
-
-[[files]]
-file = "config/modmenu.json"
-hash = "16d20c40cc6c114faff5493b561873fe160a65047720bc19fb3a3dd64aa67f3b"
-
-[[files]]
-file = "config/peek/peek.properties"
-hash = "59742cd9cc067a7f42b9a402096569a8d33029a0e304ead3b31f2a5975b5bd7d"
-
-[[files]]
-file = "config/sodium-fingerprint.json"
-hash = "8e4857de7cb27f8f8627bf8b73db6de3c57717b62a21163c5764923345101d41"
-
-[[files]]
-file = "config/sodium-options.json"
-hash = "915f29359d1b44f049ee2b2b7de0c00dcc1b066e79f7ebc4b81243c70306a8e2"
-
-[[files]]
-file = "config/transition.json"
-hash = "6c0060c7301372bbc414f86a139b383e34fb620f0621badd71bb19efc3f26767"
-
-[[files]]
-file = "config/trender.json"
-hash = "0a282f3623f7f9443a1d10b5768865f69e58b74e000dcfb4f40399626b7a6124"
-
-[[files]]
-file = "config/yacl.json5"
-hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
+file = "config/litematica.json"
+hash = "edcf939ef43c35ac95ebf00c28347acdc98c1fa13bae0689c4628327e1986fa6"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.core.config"
-hash = "2513f18d74b5eaca20f4f5b1eded00b958ff026dfbf2e210073de2241e90c5ad"
+hash = "89aa56b4bf71ea064ef3018fc7a35d50c176b3c67ece140f0d4e9da81900c074"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.fullmap.config"
-hash = "5218347188443e0b0458586cd174810b49c93135e3edfc58b2c88a7f47c0bbc5"
+hash = "48e6f8385e89cb380a602da818d7d7f3a554e3f51417cf493901f46849c85189"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.minimap.config"
-hash = "80e9e61490b36ed5e51e4c362b1f4d13fe9a46b520ddb94574543c705aa282ae"
+hash = "35a1526d34c99b240cedd417f839b1165d6392f2dc094a707e9726ddda21cf57"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.minimap2.config"
-hash = "f82f472b53392f5e87b90858919195eb706dd9e31eccd825dfe8a87a4a20fea8"
+hash = "b706dcd7c4f6a6da8f41f13bb0722c7696f407f87fe0be767724f91648e76f18"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.rendering.config"
-hash = "3d46a7b01ea4a0bc92ce900cc21d3935fcbb1358a01ebd186d7e4147e4529d3a"
+hash = "b942f81a742b92bb23dc06184b2905d93943b1be4d968dec0a1c3572ef9aa5c7"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.topo.config"
-hash = "104bc3c4e4052ee9cab24d8d3b94ab40a51b4e3c3de8ae22daa29a068ff8a8c3"
+hash = "4d80ae64c0dcb860cee8948197672a6b52bc100095eb3844d122d5d9ecdc0e12"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.waypoint.config"
-hash = "c30aebd5b91e4e8df662fefc353e6e5dddcb2c2a9c8d5b7869740096b1fffa86"
+hash = "f75a680baff3719c26b6aa356dd8db81049b53d57a3233c60a58c77298346089"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.webmap.config"
-hash = "2cb4bc01b8b1528cce8fdcfa80feb8123999623b294844e84802dbcbc147bd15"
+hash = "8768050063a335c3d782e4eb409f4c33f8b86eb94dfab63cf7ef291159c7d49d"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "ca3ae2608987185814c118388f28057f729d866ee1abbc97f3650141d213fa35"
+hash = "2d3b1944bc7916b8e57460d7eb342c73566e15393ddb6483c71f2336bab6200c"
 metafile = true
 
 [[files]]
 file = "mods/auth-me.pw.toml"
-hash = "1562c21781759f538378d67275bac4497dd15b68b85d13e9c5b613a1ba46cacc"
+hash = "77972cd0f6c886e5fffa4671c597a71ae72d1f7df4ce942146ca4f6eb05f128d"
 metafile = true
 
 [[files]]
 file = "mods/better-mount-hud.pw.toml"
-hash = "6ef53c2c4e506e111b4bd7c1bc8804a5a7dcb2f6e3b79054575e73f6ce61ee94"
+hash = "156e8688835a92ff6f1a199b77c0f9a16f3d5b15fd9c311cd7dd8a5b1b4d8b4d"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "a06ef129798265e0d7249426fb0ed5c506725b0460dc3dfdb975b8978480895e"
+hash = "1b8f4603e81c48badce4a9321dea87bdeb9d3b5a2f0be566139d087afad73a47"
 metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "d53b229a5588d33a8dac8682cba4371b22b2cbe2541c7129506cfbd44daaf6f8"
-metafile = true
-
-[[files]]
-file = "mods/controlify.pw.toml"
-hash = "042b44569b655273c718eaff43dc9b95088d17a14626babda8a0bedf4028eb14"
+hash = "c7e5c4ae7f25c1954a2327f5dd1edece3ba9dc07039d39bc9beb435e4a18bf82"
 metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "797068051b88595d3342b8a777cca15eb5bc03cc5c9ccdde9934389c2a71555c"
+hash = "6ce63927ee36334ced0cfbeae2e885595c5a75ca0e39633d66b35a2904ee36eb"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "7b83af5380faba6641a6fdf27e239eba79846f6b66a65da810860a8cb1e86ee4"
+hash = "0b4721522ae8497677ff44178646d768863825d92e925ac93ab97c02f165c08c"
 metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "adcf2601fe44683e7b762d4f4874ed20299818b2e7eb926545903bb80e55524f"
+hash = "c4a7da58b8e66889559ee54c500349a94fbe70907383a01149f444947752bc4f"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "6932ffe04ebe5f86c43b8afca22824e193ec082750e87933e293dba4e6f22504"
+hash = "4f0b968b06bd349210ffefa44a236a73383206cdcd97b8942f02abdcab260a19"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "45abf05e1cc90006aeb65e4e1bbe97da5a1984f547ea8028a077dae68af0ac11"
+hash = "1b7dddabe21e51ddc2a0f1a304523089c4aa80dfe03d1921fdb6847a9a7f1065"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "e49f549eecbe502a3da6d731d6e28783631b14b0bba7bba9780a1075e7926776"
+hash = "337d97b990f76c91584b12600651ae7bd47a0824e45070b3d9330b0922149fc0"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "816b735b2ad505476201800a99f527e61b392b712b9d20ca9edcce05f412fe87"
+hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
 metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "839d5e3cb0d5088cea47c6ee18b1ea4e4055f38ccbb0194544ff73ab9c5d9cd3"
+hash = "1f521891e40a88e0b500c97a9da7c2a79078a0ab6067a52139bce1fc7e36176b"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "5127c58dc92fe8860d29ad2d05e7c2ea7b973390f41aec73dd2017953f2d1a3e"
+hash = "51fa2c64e9cf2d5558a2f1e575960a0a9f9f27f73486d0d679c2bc695eb11026"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "3a4bdf4855b2c2bcab556507cd5f61fa8915cc0aa8519821efd09143b24235fb"
+hash = "0e3ea55d9e42a29bc026e4abe66a4dbe57de18e61127c162a51dad744eb93795"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "71755b98e248c3cf1254b9a340a2cac6e92779321ae88f7b9e9faf01ab99b762"
+hash = "62fcb878e4eb787ccfc3f0348b1631820058c2e754afbebd550ab5803fd235b8"
 metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "200890e05315c9668c8f54ea14dcdee4af48cff502824428900280b9baec5330"
+hash = "4d58a0dbb57d1a0c99bee80c14bb074b9eb7ee75570f3307a0c093aac18f51bf"
+metafile = true
+
+[[files]]
+file = "mods/litematica.pw.toml"
+hash = "01741b52839afc8ae7a62fe897b38eaa96a88b595d69f7e8ba950ef5babc5987"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "8c7aec9e376eb3f10da62109594e1ac6b7bc92da8e9c080f8f8f5a736051f339"
+hash = "ceed226223967ea3e7017aad327a069250c289c834766e1a3cd27c8d0ad52de1"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "fefc1195c8b89e2ae15dced184d0188279e0a34e95885532b77eda89d63f59ad"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "c3069d6c3ef1d13c9ba064824777c4d74dd504cad358cb0b6f06f6266fc143c8"
+hash = "a3b2043845ab8f258b02e6cefe35e20f836ccc1e30acd6758fc98a772be87828"
 metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "cd25851cbdaad2dd1957a8086ce54aa4bd3c45be75e1ba49168a54fafbd87898"
+hash = "3db1b61528d0fdd908f1fe57685bbc49cdbe496bfe0e349a0280334444193c73"
 metafile = true
 
 [[files]]
 file = "mods/peek.pw.toml"
-hash = "a7ed3b70eee552acb382d218b9ab840d6d8d81fac7491db9d146692c4d870389"
+hash = "b4cd62e92cab0c8f6f65288214aa523283f045d0e674d084c1075359bb483d75"
 metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "ab6def9d98d3f5bf12f78845bdb770a19d5ca590c571e60184e537ffa14dcbee"
+hash = "d20369e5848ca31ecbb49bae22e953439173bd4617ca239b23335366b2a6a0e9"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "74d55f8ffee46b10c6d4c709c298a72e1233cdd393707c223b3e861d7f104a88"
+hash = "030f69f3a7e275201c10eef33ae360341a3c280b06955134b6885aeaa8883d6a"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "1113d43c39a9866252a83ee50d16aa3ce6fcf749acd84d58b05ca09eba4d187b"
+hash = "51a17d028bf0d35c66d269185a63ea4adc968f60727454d0f8ed3ef2138f8612"
 metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "811b5419c5b3a0ee3cfe9555a25ca2372046d3bda10e3ee882978bd8f84cfb76"
-
-[[files]]
-file = "resourcepacks/even-better-enchants.pw.toml"
-hash = "26c0e4a143ee9c0aa5c257996a7efba141c30674f2b0209af5c263c36db555ea"
-metafile = true
+hash = "4385ff092e1a81fd28443326369047b045264b5f432f04a6d80fb31e3a47a424"
 
 [[files]]
 file = "resourcepacks/faithful-64x.pw.toml"
-hash = "b372f716284513fd41fc72a9ac8e98db55eb9eb2d9c6c7b5638e8db863ecae80"
-metafile = true
-
-[[files]]
-file = "resourcepacks/xekrsquarepattern.pw.toml"
-hash = "2314af098d0f51b39876712107b15bef7b15bb0dfeac571b97f5d0b1dad0292f"
-metafile = true
-
-[[files]]
-file = "resourcepacks/xk-redstone-display.pw.toml"
-hash = "27750d59c2954e738be85531daf1f7b079d59de4973447b100d88b4fe2c6d1c5"
+hash = "f25566397dc834a2c26008bf84d27aa241794451f7fa055d85ccc373b034aeb1"
 metafile = true
 
 [[files]]
