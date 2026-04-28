@@ -87,6 +87,16 @@
         "enable_lock_slots_per_server": false,
         "locked_slots_disable_quick_move_throw": false,
         "locked_slots_disable_throw_for_non_stackable": false,
+        "lock_slots_switch_config_modifier": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "lock_slots_config_key": {
+            "main": {
+                "keys": ""
+            }
+        },
         "show_locked_slots_background": {
             "value": false
         },
@@ -141,6 +151,9 @@
         "enable_profiles": {
             "value": false
         }
+    },
+    "ScrollSettings": {
+        "scroll_auto_pickup_next_for_single": false
     },
     "Hotkeys": {
         "open_config_menu": {

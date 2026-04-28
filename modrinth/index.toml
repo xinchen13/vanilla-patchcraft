@@ -6,7 +6,7 @@ hash = "412066a69288a585f9a100b4082e3d6c6cbcfd38d383b7c4799ad255fc187727"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "02766343605c8471031e932f99070cd40d25ea3b5cde78a959037623ddea01bb"
+hash = "01658ffd51395be9d3316015f17b98ff9dfdb19de01b94450033cad90a06a20f"
 
 [[files]]
 file = "config/jade/jade.json"
@@ -14,7 +14,7 @@ hash = "35d4335d2aa873eae9b700ff4097bffa7d317b0d532cd9af56db197aba17c653"
 
 [[files]]
 file = "config/litematica.json"
-hash = "19dec27f87b96e9b1a82447b8497942847d990ad3b1ec098c86f9026a3f83695"
+hash = "1d2078075a90957732a6c3064d0728c4c0b1189310717a6a5c3fc619f5f36422"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.core.config"
@@ -175,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "4385ff092e1a81fd28443326369047b045264b5f432f04a6d80fb31e3a47a424"
+hash = "76ec1a5fd13749d33029fd54246c235f5de0e331a4bfaf292c004e92c00ce161"
 
 [[files]]
 file = "resourcepacks/faithful-64x.pw.toml"

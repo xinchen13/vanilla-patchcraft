@@ -279,7 +279,7 @@
       "keys": "M,R"
     },
     "toggleAreaSelectionBoxesRendering": {
-      "keys": ""
+      "keys": "M,B"
     },
     "toggleInfoOverlayRendering": {
       "keys": ""
