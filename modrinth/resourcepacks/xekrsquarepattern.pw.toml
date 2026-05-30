@@ -1,0 +1,13 @@
+name = "Squareful"
+filename = "Squareful方纹v26.2.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rq4lDGdf/versions/YHAiojgg/Squareful%E6%96%B9%E7%BA%B9v26.2.1.zip"
+hash-format = "sha512"
+hash = "4fa112a8d21962c2816ad52f7a76b1e369c870c692ff06e7317894ee8c60b6b7de4a5e57cd85e9594bea9884f8968ced05f9bd6de29757e6fc154f998f334810"
+
+[update]
+[update.modrinth]
+mod-id = "rq4lDGdf"
+version = "YHAiojgg"

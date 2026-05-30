@@ -291,10 +291,5 @@
                 "keys": ""
             }
         }
-    },
-    "Tweaks": {
-        "container_swipe_moving_items": {
-            "value": false
-        }
     }
 }

@@ -13,6 +13,7 @@
     "schematicOverlayColorWrongState": "#4CFF9010"
   },
   "Generic": {
+    "placementManagerThreadCount": 2,
     "areaSelectionsPerWorld": true,
     "changeSelectedCornerOnMove": true,
     "cloneAtOriginalPosition": false,
@@ -77,6 +78,7 @@
     "placementReplaceBehavior": "all",
     "placementRestriction": false,
     "placementRestrictionWarn": "actionbar",
+    "reverseOperationModeDirection": false,
     "renderMaterialListInGuis": true,
     "renderThreadNoTimeout": true,
     "serverNbtRequestRate": 2,
@@ -94,7 +96,6 @@
     "commandNameSetblock": "setblock",
     "commandNameSummon": "summon",
     "commandTaskInterval": 1,
-    "customSchematicBaseDirectory": "C:\\Users\\xinch\\Desktop\\test_mr\\.minecraft\\versions\\Vanilla Patchcraft\\schematics",
     "easyPlaceSwapInterval": 0,
     "pickBlockableSlots": "1,2,3,4,5",
     "toolItem": "minecraft:stick",

@@ -41,8 +41,8 @@ A lightweight modpack designed to enhance the vanilla Minecraft experience. It f
 | Complementary Unbound  &nbsp; &nbsp;  | Shader Pack   | Highly customizable, high-quality shaders 🌈          |
 | Bliss Shader            | Shader Pack   | Soft and cinematic lighting style 🌅                  |
 | Faithful 64x            | Resource Pack &nbsp; &nbsp; | Higher-resolution textures faithful to vanilla 🎨     |
-| Xekr Redstone Display\*   | Resource Pack | Visualizes redstone signal strength 🔴                |
-| Xekr Square Pattern\*     | Resource Pack | Squarelize,texture combination, exquisite model ◻️    |
+| Xekr Redstone Display   | Resource Pack | Visualizes redstone signal strength 🔴                |
+| Xekr Square Pattern     | Resource Pack | Squarelize,texture combination, exquisite model ◻️    |
 
 \* means temporarily unavailable, will be added back in the future
 
